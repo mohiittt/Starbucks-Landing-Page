@@ -46,8 +46,11 @@ You can find me on social media:
 Simply clone the repository and open the index.html file in your web browser.
 
 ```bash
-git clone https://github.com/mohiittt/starbucks-website.git
+git clone https://github.com/mohiittt/Starbucks-Landing-Page.git
 cd starbucks-website
+```
 
-
+# Web site Hosted 
+```
+https://mohiittt.github.io/Starbucks-Landing-Page/
 ```
