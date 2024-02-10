@@ -46,7 +46,7 @@ You can find me on social media:
 Simply clone the repository and open the index.html file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/starbucks-website.git
+git clone https://github.com/mohiittt/starbucks-website.git
 cd starbucks-website
 
 
